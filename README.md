@@ -2,4 +2,4 @@
 
 **Moja strona**
 
-! [nierobiwrażena] (/ path / to / img.jpg)
+! [nierobiwrażena] (pobrane (4) (1).jpeg)
