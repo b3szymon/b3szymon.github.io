@@ -9,3 +9,4 @@
   ___) | |_| |___) |
  |____/ \___/|____/ 
  ```
+_krzywo_ normalnie **Grubo** ***Grubokrzywo** ~~skreślone~~ ~~***skreślobegrubokrzywo***~~ 
